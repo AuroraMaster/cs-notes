@@ -1,0 +1,17 @@
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch / drafts
+_drafts/
+TODO.local.md
+
+# Generated
+*.pdf
+*.html
+_site/
